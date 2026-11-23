@@ -3191,6 +3191,11 @@
       "url": "https://lahoudie.github.io/naishou-rencontres-assets-2/objects/ff096691b5bc3e0188c64baf09661756abab9577c92750fc745fbae798e98fab.webp",
       "sha256": "ff096691b5bc3e0188c64baf09661756abab9577c92750fc745fbae798e98fab",
       "bytes": 1201162
+    },
+    "assets/encounters/catalogue/9d07139c5ca5c2e96bbd694ea456a5b2b1397b0b99a4f7888483bed296310dcd.webp": {
+      "url": "https://lahoudie.github.io/naishou-rencontres-assets-2/objects/9d07139c5ca5c2e96bbd694ea456a5b2b1397b0b99a4f7888483bed296310dcd.webp",
+      "sha256": "9d07139c5ca5c2e96bbd694ea456a5b2b1397b0b99a4f7888483bed296310dcd",
+      "bytes": 101538
     }
   }
 }
